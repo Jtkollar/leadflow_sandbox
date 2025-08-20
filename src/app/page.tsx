@@ -1,3 +1,8 @@
 export default function Home() {
-  return <main style={{padding:24}}>It builds ✅</main>;
+  return (
+    <main>
+      <h1>LeadFlow Sandbox</h1>
+      <p>It builds ✅</p>
+    </main>
+  );
 }
